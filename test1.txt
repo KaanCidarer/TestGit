@@ -1,5 +1,7 @@
 Change 1 for the day
 Change 2 on master yeeya
 Change 2 for The new branch yeeya
-Just a trial not gonna commit
+I just changed my mind decided to commit
 changes for the github
+
+And I have added this line 
